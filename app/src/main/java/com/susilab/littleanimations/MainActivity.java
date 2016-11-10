@@ -16,4 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Animation pulse = AnimationUtils.loadAnimation(this, R.anim.pulse);
         image.startAnimation(pulse);
     }
+    private void addFile(){
+
+    }
 }
